@@ -6,4 +6,4 @@ author:
 description: "A blog documenting my journey through Encora's academy program"
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
