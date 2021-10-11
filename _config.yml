@@ -5,4 +5,4 @@ author:
   email: alfonso.valenciana@encora.com
 description: "A blog documenting my journey through Encora's academy program"
 
-theme: jekyll-theme-time-machine
+remote_theme: jekyll-minima
