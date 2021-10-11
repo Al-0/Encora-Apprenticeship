@@ -6,6 +6,4 @@ author:
 description: "A blog documenting my journey through Encora's academy program"
 
 # Build settings
-remote_theme: jekyll-minima
-
 theme: jekyll-theme-minimal
