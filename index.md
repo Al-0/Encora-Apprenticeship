@@ -1,1 +1,5 @@
-#Welcome to my new blog!
+---
+title: Home 
+---
+
+# Welcome to my new blog!
