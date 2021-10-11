@@ -1,5 +1,5 @@
 ---
-layout: home 
+title: home 
 ---
 
 # Welcome to my new blog!
