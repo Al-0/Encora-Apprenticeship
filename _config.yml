@@ -5,4 +5,5 @@ author:
   email: alfonso.valenciana@encora.com
 description: "A blog documenting my journey through Encora's academy program"
 
+# Build settings
 remote_theme: jekyll-minima
