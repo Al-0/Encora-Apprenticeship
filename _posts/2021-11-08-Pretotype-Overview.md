@@ -5,4 +5,4 @@ tags: fourthweek allaboutscience
 categories: Weeklyhomework
 ---
 
-<embed src="https://github.com/Al-0/Encora-Apprenticeship/blob/main/docs/Pretotype_overview.pdf" type="application/pdf"/>
+<object data="https://al-0.github.io/Encora-Apprenticeship/docs/Pretotype_overview.pdf" width="1000" height="1000" type="application/pdf"></object>
